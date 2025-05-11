@@ -131,7 +131,8 @@ predictions = model.predict(X_preprocessed)
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/dhymasmf/)
-Email : [Gmail](dhymas.maulidin@gmail.com)
+
+Email : dhymas.maulidin@gmail.com
 
 **Author**
  [Dimas Maulidin Firdaus](https://github.com/dhymasmf)  
